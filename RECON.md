@@ -55,6 +55,12 @@ None shown / none verifiable. Per the verified-socials rule, all socials are omi
 - **Type:** Cabinet Grotesk (display, 800/900), Supreme (uppercase labels),
   General Sans (body). No family shared with any sibling build (RFC used
   Clash Display / Khand / Satoshi).
+- **Brand mark:** a fierce dragon head ("dragon-head" by Lorc, game-icons.net,
+  CC BY 3.0), recolored to the flame gradient. Defined once as an SVG `<symbol>`
+  and reused in the nav, footer, age gate and favicon. Attribution is in an HTML
+  comment at the top of the file. NOTE: CC BY needs that credit; if the owner
+  wants a mark they fully own with zero attribution, swap to a CC0 or commissioned
+  original. Method is logged in the Arsenal under "Brand marks & icons".
 - **Imagery (every photo distinct, none reused on the page):** local curated
   stock, flagged-for-swap.
   - Hero: chrome hookah with green hose and smoke `images/hero.jpg`
