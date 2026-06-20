@@ -67,6 +67,19 @@ None shown / none verifiable. Per the verified-socials rule, all socials are omi
   - Aisle 06 Torches/Lighters `images/accessories.jpg`
   8 images total, zero reuse on the page.
 
+- **Video (Mixkit free license, no attribution required):**
+  - Hero: drifting smoke on black `video/hero-smoke-720.mp4` (720p) and
+    `video/hero-smoke-360.mp4` (360p mobile). Layered with `mix-blend-mode:screen`
+    OVER the hookah photo, so the product stays visible and live smoke drifts
+    across it. Autoplay, muted, looped, playsinline.
+  - After Dark: live ember flames on black `video/afterdark-fire-720.mp4` (720p)
+    and `video/afterdark-fire-360.mp4` (360p), poster `images/afterdark.jpg`.
+  Both videos: 360p served on screens <= 860px, 720p otherwise; paused when
+  off-screen and on tab hide; under `prefers-reduced-motion` the hero video is
+  hidden (hookah photo shows) and After Dark falls back to its flame poster.
+  Source frames were eyeballed (grey smoke on black, ember flames on black)
+  before use.
+
 ---
 
 ## 4 · Signature Interaction (assigned: IGNITE THE CASE)
